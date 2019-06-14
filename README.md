@@ -5,3 +5,4 @@ The repository has some insight on how the dataset looks and its attributes
 * Pie Diagrams
     - EDA using pie diagram.
     - How to use pie diagram.
+* Pair Plot
